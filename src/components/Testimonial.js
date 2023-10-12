@@ -5,8 +5,8 @@ function Testimonial() {
     <div className='container-testimonial'>
       <img 
       className='image-testimonial'
-      src= {require('../images/testimonial-emma.pgn')}
-      alt='Foto 1'
+      src= {require('../images/testimonial-emma}.pgn')}
+      alt='Foto emma'
       />
     </div>
   );
